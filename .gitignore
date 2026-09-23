@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+data/raw/
+__pycache__/
+nn-env/
+data/
+src/
+.DS_Store
